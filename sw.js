@@ -1,5 +1,5 @@
 // Groyper Tracker — Service Worker
-const CACHE_NAME = 'groyper-tracker-v8';
+const CACHE_NAME = 'groyper-tracker-v9';
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -9,6 +9,11 @@ const STATIC_ASSETS = [
   './weather.js',
   './frog.js',
   './manifest.json',
+  './frog/stage1.png',
+  './frog/stage2.png',
+  './frog/stage3.png',
+  './frog/stage4.png',
+  './frog/stage5.png',
   './icons/icon-192.png',
   './icons/icon-512.png'
 ];
