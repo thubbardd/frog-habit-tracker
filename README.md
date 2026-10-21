@@ -1,4 +1,4 @@
-# Groyper Habit Tracker
+# Frog Habit Tracker
 
 A daily habit tracker PWA (vanilla JS, HTML, CSS) with a Groyper frog that reacts to your score, plus a weather-reactive background.
 
